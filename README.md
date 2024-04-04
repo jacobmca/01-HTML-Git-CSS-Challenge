@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my completed repository for the UC Berkeley eDX Bootcamp's challenge for Week 1: HTML-Git-CSS. I completed this challenge to show my understanding of the fundamentals of HTML, CSS, and Git basic programming and semantics.
+This is my completed repository for the UC Berkeley eDX Bootcamp's challenge for Week 1: HTML-Git-CSS. I completed this challenge to show my understanding of the fundamentals of HTML, CSS, and Git basic programming/semantics.
 
 This repository displays the original, unsolved code and updates the HTML and CSS into a logical and condensed semantic structure, adds alt attributes to the project's images and icons, quality controls the links and titles, and adds comments to break down the updated CSS.
 
@@ -17,11 +17,13 @@ To install, please clone this repository to your computer using the following st
 3. Type "git clone <paste SSH URL>", replacing <paste SSH URL> with your copied SSH URL.
 4. Press enter.
 
-<!-- Add instructions to pull from GitHub -->
-
 ## Usage
 
-To view this site, either visit the link ____ or open the 01-HTML-Git-CSS-Challenge/index.html file on any major browser.
+To view this site, either visit the link <https://jacobmca.github.io/01-HTML-Git-CSS-Challenge/> or open the 01-HTML-Git-CSS-Challenge/index.html file on any major browser from your computer.
+
+## Screenshot
+
+![Screenshot](/assets/images/screenshot)
 
 ## Credits
 
