@@ -23,7 +23,7 @@ To view this site, either visit the link <https://jacobmca.github.io/01-HTML-Git
 
 ## Screenshot
 
-![Screenshot](/assets/images/screenshot)
+![Screenshot](assets/images/screenshot)
 
 ## Credits
 
